@@ -1,0 +1,4 @@
+PWD c:\Users\srika\Desktop\latex
+INPUT C:\Users\srika\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\srika\Desktop\latex\Resume.tex
+OUTPUT c:\Users\srika\Desktop\latex\Resume.log
